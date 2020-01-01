@@ -17,7 +17,7 @@ Our fix to the above challenges:
 
 Our model Architecture:
 -----------------------
-* Our model was somewhat inspired by the AlexNet architecture with major tweaks and adjustments for serving our specific purpose.
+* Our model was a custom implementation hugely inspired from the famous AlexNet architecture with major improvisations and tweaks to serve our specific purpose
 
 Or Training Strategy:
 ---------------------
